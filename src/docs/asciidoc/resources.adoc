@@ -1,4 +1,5 @@
 ## Resources
 
-- Testing Java MicroServices
+- https://www.manning.com/books/testing-java-microservices[Book: Testing Java MicroServices]
+- https://www.youtube.com/watch?v=mH9TEXhmmwc[YouTube: Testing Java Microservices]
 - https://martinfowler.com/articles/microservice-testing/[Testing Strategies in Microservice Architecture]
