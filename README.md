@@ -10,3 +10,7 @@ Development Notes:
 - Using Atom with AsciiDoc Plugin
 - gradle and asciidoctor plugin
 - Diagrams were created with Draw.io
+
+Hints:
+- gradle asciidoctor
+- open build/asccidoctor/html5/01_Testing.html

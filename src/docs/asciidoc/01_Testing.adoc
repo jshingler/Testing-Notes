@@ -6,9 +6,9 @@ Jim Shingler <shinglerjim+testing@gmail.com>
 v1.0, 2017-11-28
 :toc:
 
-include::introduction.adoc[]
+include::introduction.adoc[Introduction]
 
 
-include::resources.adoc[]
+include::resources.adoc[Resources]
 
 image::sample.png[]
