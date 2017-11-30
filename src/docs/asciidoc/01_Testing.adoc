@@ -23,5 +23,3 @@ include::additionalTesting.adoc[]
 include::advancedTesting.adoc[]
 
 include::resources.adoc[Resources]
-
-image::sample.png[]

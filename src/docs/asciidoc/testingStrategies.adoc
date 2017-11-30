@@ -5,3 +5,5 @@
 - Component
 - Contract
 - End-2-End
+
+include::testingStrategies/unit.adoc[]
