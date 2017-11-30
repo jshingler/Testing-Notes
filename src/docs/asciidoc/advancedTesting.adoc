@@ -1,0 +1,6 @@
+== Advanced Testing Topics
+
+=== Testing in Production
+- Blue Green
+- Canary
+- Dark Launch
