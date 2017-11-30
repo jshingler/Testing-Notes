@@ -1,0 +1,6 @@
+## Introduction
+
+Modern Solutions are greatly influenced by Cloud, Cloud Native, MicroServices
+and DevOps.
+
+The purpose of this document is to look at how we test Modern Solutions.
