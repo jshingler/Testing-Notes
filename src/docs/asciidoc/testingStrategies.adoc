@@ -1,4 +1,4 @@
-=== Testing Strategies
+== Testing Strategies
 
 - Unit
 - Integration
@@ -7,3 +7,11 @@
 - End-2-End
 
 include::testingStrategies/unit.adoc[]
+
+include::testingStrategies/integration.adoc[]
+
+include::testingStrategies/component.adoc[]
+
+include::testingStrategies/contract.adoc[]
+
+include::testingStrategies/end2End.adoc[]
