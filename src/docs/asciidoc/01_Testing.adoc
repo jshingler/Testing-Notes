@@ -8,9 +8,9 @@ v1.0, 2017-11-28
 
 include::introduction.adoc[Introduction]
 
-NOTE: For the purpose of this document, we will set aside the concerns of Division
-Labor and not worry about who does what testing.  We will address that at a later
-time.
+NOTE: For the purpose of this document, we will set aside the Division of
+Labor concerns and not worry about who does what testing.  We will address that 
+at a later time.
 
 include::modernSolutions.adoc[]
 
