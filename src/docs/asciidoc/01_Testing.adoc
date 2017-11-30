@@ -16,6 +16,10 @@ include::modernSolutions.adoc[]
 
 include::microService.adoc[]
 
+include::testingStrategies.adoc[]
+
+include::additionalTesting.adoc[]
+
 include::advancedTesting.adoc[]
 
 include::resources.adoc[Resources]

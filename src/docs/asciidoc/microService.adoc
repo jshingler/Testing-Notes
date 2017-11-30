@@ -1,3 +1,36 @@
 == MicroService
 
 In this section, we will look at the components of a MicroService.
+
+
+image::msa_02.png[]
+
+=== Resource
+Resources act as mappers between the application protocol exposed by the service
+and messages to objects representing the domain. Typically, they are thin, with
+responsibility for sanity checking the request and providing a protocol specific
+response according to the outcome of the business transaction.
+
+=== Domain
+Almost all of the service logic resides in a domain model representing the
+business domain. Of these objects, services coordinate across multiple domain
+activities, whilst repositories act on collections of domain entities and are
+often persistence backed.
+
+=== Gateway
+If one service has another service as a collaborator, some logic is needed to
+communicate with the external service. A gateway encapsulates message passing
+with a remote service, marshalling requests and responses from and to domain
+objects. It will likely use a client that understands the underlying protocol
+to handle the request-response cycle.
+
+
+=== Repositories
+Except in the most trivial cases or when a service acts as an aggregator across
+resources owned by other services, a micro-service will need to be able to
+persist objects from the domain between requests. Usually this is achieved using
+object relation mapping or more lightweight data mappers depending on the
+complexity of the persistence requirements.
+
+Often, this logic is encapsulated in a set of dedicated objects utilised by
+repositories from the domain.

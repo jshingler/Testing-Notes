@@ -1,3 +1,4 @@
 ## Resources
 
 - Testing Java MicroServices
+- Testing Strategies in Microservice Architecture [https://martinfowler.com/articles/microservice-testing/]

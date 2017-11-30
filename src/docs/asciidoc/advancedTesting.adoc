@@ -1,5 +1,9 @@
 == Advanced Testing Topics
 
+=== Pre-Deployment Validation
+This involve inspecting the deployment environment to validate that the proper
+version of dependencies are running before deploying the asset.
+
 === Testing in Production
 - Blue Green
 - Canary

@@ -1,0 +1,7 @@
+=== Testing Strategies
+
+- Unit
+- Integration
+- Component
+- Contract
+- End-2-End
