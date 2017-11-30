@@ -1,5 +1,6 @@
 ## Resources
 
-- https://www.manning.com/books/testing-java-microservices[Book: Testing Java MicroServices]
+- https://www.manning.com/books/testing-java-microservices[Book: Testing Java MicroServices- Alex Soto Bueno, Jason Porter and Andy Gumbrecht]
 - https://www.youtube.com/watch?v=mH9TEXhmmwc[YouTube: Testing Java Microservices]
+- http://shop.oreilly.com/product/0636920033158.do[Building Microservices - Sam Newman]
 - https://martinfowler.com/articles/microservice-testing/[Testing Strategies in Microservice Architecture]
