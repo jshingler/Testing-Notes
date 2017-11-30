@@ -1,9 +1,10 @@
 :imagesdir: ./images
 
 
-# Testing-Notes
-
-
+= Testing-Notes
+Jim Shingler <shinglerjim+testing@gmail.com>
+v1.0, 2017-11-28
+:toc:
 
 include::introduction.adoc[]
 

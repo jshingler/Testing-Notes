@@ -8,4 +8,5 @@ This is a spot for me to start organizing my thoughts.
 Development Notes:
 - This is written in ascidoc
 - Using Atom with AsciiDoc Plugin
+- gradle and asciidoctor plugin
 - Diagrams were created with Draw.io
